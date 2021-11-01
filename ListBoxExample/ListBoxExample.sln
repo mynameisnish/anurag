@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxExample", "ListBoxExample.csproj", "{C1E3FE9E-25DE-46F5-AEC8-7090FFA5486C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{FEA368A9-2E0E-44CC-BC91-01F034D18301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E3FE9E-25DE-46F5-AEC8-7090FFA5486C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E3FE9E-25DE-46F5-AEC8-7090FFA5486C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E3FE9E-25DE-46F5-AEC8-7090FFA5486C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E3FE9E-25DE-46F5-AEC8-7090FFA5486C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA368A9-2E0E-44CC-BC91-01F034D18301}.Debug|Any CPU.ActiveCfg = Debug
+		{FEA368A9-2E0E-44CC-BC91-01F034D18301}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91A880A-A361-4623-84DE-CCFE0ACFFD5A}
+	EndGlobalSection
+EndGlobal
